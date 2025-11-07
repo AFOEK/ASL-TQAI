@@ -1,0 +1,15 @@
+{
+  "classes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "img_size": [
+    112,
+    112
+  ],
+  "train_dir": "train",
+  "val_dir": "val"
+}
